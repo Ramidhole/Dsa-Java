@@ -4,7 +4,8 @@ import java.util.*;
 public class javaBasics{
     public static void main(String args[]){
 
-        int age = 18;
+Scanner sc = new Scanner (System.in);
+        int age = sc.nextInt();
 
         if(age >= 18 )
         {
