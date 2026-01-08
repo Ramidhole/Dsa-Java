@@ -1,4 +1,4 @@
-// question 3: calculate percentage of tax 
+// question 3: calculate percentage of tax ?
 
 import java.util.*;
 

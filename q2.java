@@ -1,4 +1,4 @@
-//question 2:- check the number the number is negative or positive  
+//question 2:- check the number the number is negative or positive ?  
 
 import java.util.*;
 public class JavaBasics{

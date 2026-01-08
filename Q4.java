@@ -1,3 +1,6 @@
+// caluculate two number using switch statement ?
+
+
 import java.util.*;
 
 public class javabasics {

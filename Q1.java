@@ -1,4 +1,4 @@
-//question:- check the condition age 18 above adult else child 
+//question:- check the condition age 18 above adult else child ?
 
 import java.util.*;
 public class javaBasics{
