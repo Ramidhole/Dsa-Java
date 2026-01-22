@@ -17,6 +17,7 @@ int b = 10;
 
 int prod = multiPly(a,b);
 
+
 System.out.println(prod);
 
 }
