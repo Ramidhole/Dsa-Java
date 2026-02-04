@@ -4,33 +4,33 @@ public class JavaBasics{
     public static void main(String args[]){
 
 Scanner sc = new Scanner(System.in);
+System.out.println("enter the integer number");
 
-int number;
-int choice;
+int n = sc.nextInt();
+System.out.println("Enter"+ n +"integer");
+
 int evenSum =0;
 int oddSum=0;
 
-do{
-System.out.println("enter the number" );
 
-number= sc.nextInt();
+for(int i=0; i<n; i++){
+
+int number= sc.nextInt();
 
 if(number %2 ==0){
 evenSum += number;
+
 }
+
 else{
+
     oddSum += number;
 
 }
-
-choice= sc.nextInt();
-System.out.print("Press 1 to continue, any other number to stop: ");
-
 }
-while(choice == 1);
+
 System.out.println("the sum of even number:"+ evenSum);
 System.out.println("the sum of odd number:"+ oddSum);
-
 
 }
 }
