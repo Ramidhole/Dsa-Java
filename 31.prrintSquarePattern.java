@@ -14,6 +14,5 @@ for(int row=1; row<=n; row++){
 System.out.println();
 }
 
-
 }
 }
