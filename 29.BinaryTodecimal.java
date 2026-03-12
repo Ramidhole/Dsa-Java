@@ -1,3 +1,5 @@
+//binary to decimal convert?
+
 public class javaBasics{
 
 public static void binToDec(int binNum){

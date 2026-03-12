@@ -1,3 +1,4 @@
+//not print the number is divide of 10 ?
 import java.util.*;
 public class JavaBasics{
     public static void main(String args[]){

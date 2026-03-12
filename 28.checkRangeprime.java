@@ -1,3 +1,4 @@
+//check prime in range of you enter number?
 import java.util.*;
 public class JavaBasics{
 

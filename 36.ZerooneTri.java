@@ -1,3 +1,4 @@
+// zero one pattern print triangle?
 import java.util.*;
 public class java{
     public static void ZeroOnetriangle(int n){

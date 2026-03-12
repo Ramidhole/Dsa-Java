@@ -1,3 +1,4 @@
+//hollow rectangle pattern?
 import java.util.*;
 public class JavaBasics{
 

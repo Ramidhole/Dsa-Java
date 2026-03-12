@@ -1,3 +1,4 @@
+//Print table 
 import java.util.*;
 public class JavaBasics{
     public static void main(String args[]){
@@ -8,7 +9,7 @@ int number = sc.nextInt();
 
 for(int i=1; i<=10; i++){
     int multi = number * i;
-    System.out.println(multi);
+    System.out.println( multi);
 
 }
 

@@ -1,3 +1,4 @@
+//decimal  to binary convert?
 public class javaBasics{
     public static void decToBin(int n){
         int myNum =n;

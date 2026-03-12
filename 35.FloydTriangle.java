@@ -1,3 +1,4 @@
+// FloydTriangle 
 import java.util.*;
 public class java{
     public static void FloydTriangle(int n){

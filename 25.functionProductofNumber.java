@@ -1,3 +1,5 @@
+
+// Write function for product of two number?
 import java.util.*;
 public class JavaBasics{
     public static int multiPly(int a , int b){

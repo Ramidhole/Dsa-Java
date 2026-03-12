@@ -1,3 +1,4 @@
+//write function  for check the number is prime or not?
 import java.util.*;
 public class JavaBasics{
 public static boolean isPrime(int n){
